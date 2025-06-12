@@ -9,7 +9,6 @@ public class Instrutor implements Exibivel {
         this.especialidade = especialidade;
     }
 
-    // Getters e Setters
     public String getNome() {
         return nome;
     }
